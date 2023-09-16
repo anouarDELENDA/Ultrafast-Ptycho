@@ -6,10 +6,6 @@ the package called "ptycho.py". The attached notebook is a tutorial of how to us
 
 Recomendation: 
   
-  The COM method it may potentionly be good and fast way to get smart guess at the begining, but a mathematical proof
-
-associated to it is a nust as a support of its validity. The following paper can help [Ultramacroscopy_Ivan_COM] 
-
--in the folder Ptycho_COM-.
+  The COM method it may potentionly be good and fast way to get smart guess at the begining, but a mathematical proof is a must as a support of its validity. The following paper can help [Ultramacroscopy_Ivan_COM] 
 
 Anouar.
