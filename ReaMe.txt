@@ -1,0 +1,17 @@
+Dear Reader, 
+
+This foalder contain python module (basic functions) that will help to analyze the using Time Domain Ptychography routine.
+
+the package called "ptycho.py". The attached notebook is a tutorial of how to use the package. Another file named 
+
+"Ptycho_COM", is an attempt to analyze the traces for differents bounces on the chirped mirrors.
+
+Recomendation: 
+  
+  The COM method it may potentionly be good and fast way to get smart guess at the begining, but a mathematical proof
+
+associated to it as a support of its validity. The following paper can help [Ultramacroscopy_Ivan_COM] 
+
+-in the folder Ptycho_COM-.
+
+Anouar.
