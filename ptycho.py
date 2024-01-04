@@ -44,7 +44,6 @@ class ptycho():
         '''
         # I find this function more useful to evaluate the fwhm of very structured signal
         # before we had a naive function to deal with such problem
-        # I wantn't to use the pulse.fwhm of the pypret object so my code is clean and can be browsed by other ...
         
         peaks, _ = find_peaks(y) # find the peaks
         res = peak_widths(y, peaks, rel_height=rel_h) # Check documentaion basically a tuple with : width, width_hight& position 
